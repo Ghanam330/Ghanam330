@@ -29,7 +29,7 @@
 
 
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/ahmed-mohamed-a67100193)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/Ghanam330)
+[![GitHub iampawan](https://img.shields.io/github/followers/Ghanam?label=follow&style=social)](https://github.com/Ghanam330)
 
 **Languages and Tools:**  
 
@@ -41,7 +41,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
 <a href="https://github.com/Ghanam330">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanam330&theme=light&hide_langs_below=1" />
 </a>
 
 
