@@ -24,8 +24,7 @@
 - 🌱 I’m currently learning more about BlockChain.
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+
 
 
 [![Linkedin: Ghanam330](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/ahmed-mohamed-a67100193)
