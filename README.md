@@ -44,11 +44,5 @@
 </a>
 
 
-
-<a href="https://github.com/Ghanam330">
- <img align="top" src="https://github-readme-stats.vercel.app/api?username=Ghanam330&show_icons=true&theme=light&line_height=27" />
-</a>
-
-
 </div>
 
