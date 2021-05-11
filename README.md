@@ -28,8 +28,8 @@
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
 
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/ahmed-mohamed-a67100193)
-[![GitHub iampawan](https://img.shields.io/github/followers/Ghanam?label=follow&style=social)](https://github.com/Ghanam330)
+[![Linkedin: Ghanam330](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/ahmed-mohamed-a67100193)
+[![GitHub Ghanam330](https://img.shields.io/github/followers/Ghanam330?label=follow&style=social)](https://github.com/Ghanam330)
 
 **Languages and Tools:**  
 
