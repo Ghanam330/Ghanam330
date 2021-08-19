@@ -8,7 +8,7 @@
 <a href="https://github.com/Ghanam330">
   <img align="left" alt="Ahmed Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100011744910238/">
+<a href="https://www.facebook.com/profile.php?id=100011744910238">
   <img align="left" alt="Ahmed Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="ahmedmohamedghanam6@gmail.com">
