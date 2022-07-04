@@ -30,10 +30,8 @@
 <p  align="center">
 <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=I+started+my+programming+career+16+years+ago.;I+have+experience+in+many+programming+languages.;Like+C%2CC%2B%2B%2CJava%2CPython%2CKotlin%2CJavaScript++;"/>
 </p>
-<!-- contribution snake -->
-<p align="center">
-    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/Anas-Elgarhy/Anas-Elgarhy/output/github-contribution-grid-snake.svg" />
-</p>
+
+
 [![Linkedin: Ghanam330](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/ahmed-mohamed-a67100193)
 [![GitHub Ghanam330](https://img.shields.io/github/followers/Ghanam330?label=follow&style=social)](https://github.com/Ghanam330)
 
