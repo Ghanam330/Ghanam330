@@ -1,48 +1,36 @@
-## Hallo, I'm [Ahmed Mohamed Ghanam!] 👋
+<h2> Hi there, I'm Ahmed Mohamed Ghanam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px"> </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
-<a href="https://www.linkedin.com/in/ahmed-mohamed-a67100193">
-  <img align="left" alt="Ahmed Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Ghanam330">
-  <img align="left" alt="Ahmed Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100011744910238">
-  <img align="left" alt="Ahmed Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="ahmedmohamedghanam6@gmail.com">
-  <img align="left" alt="Ahmed Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-<!-- Social media links -->
-### Connect with me:
-[![my email: anas.elgarhy.dev@gmail.com](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/email_me.svg "anas.elgarhy.dev@gmail.com")](mailto:ahmedmoahmedghanam.dev@gmail.com)
-
-[![My linkedin profile](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg "@anas-elgarhy")](https://www.linkedin.com/in/ahmed-mohamed-a67100193)
-<br/>
-<br/>
-
-- I'm very very very in love with programming 🖤 
-- I'm very very very in love with linux 🐧🤍
-- I'm very very very in love with Open Source 💙💙💙
-- 🔭 One year experience with android development.
-- 🌱 I’m currently learning more about BlockChain.
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-
-</p>
-<br>
-<p  align="center">
-<img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?color=%232E9FD0&vCenter=true&width=500&lines=I+started+my+programming+career+16+years+ago.;I+have+experience+in+many+programming+languages.;Like+C%2CC%2B%2B%2CJava%2CPython%2CKotlin%2CJavaScript++;"/>
-</p>
+![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) ![](https://img.shields.io/badge/Android-Developer-green) ![](https://img.shields.io/badge/Java-Lover-yellowgreen) ![](https://img.shields.io/badge/Exp-2+yrs-red)
 
 
-[![Linkedin: Ghanam330](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/ahmed-mohamed-a67100193)
-[![GitHub Ghanam330](https://img.shields.io/github/followers/Ghanam330?label=follow&style=social)](https://github.com/Ghanam330)
+- Software Engineer
+- Mobile developer ( Flutter | Android )
+<hr>
 
-### My Skills and Interests:
 
+
+
+
+<h2> Contact with me on </h2>
+
+<!-- <h3>Where to find me</h3>
+<p><a href="https://github.com/
+AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+
+- personal email : ahmedmoahmedghanam.dev@gmail.com
+
+
+<p><a href="http://Wa.me/201206806583" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/profile.php?id=100011744910238" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ahmed-mohamed-a67100193" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
+
+<hr>
+
+
+
+<h2> Languages and Tools </h2>
+
+<p align="center"> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+<!-- 
 <p><img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <p><img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /> 
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
@@ -52,10 +40,37 @@
 <img align="left" alt=“Postman” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt=“Git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
  <br/>
- <br/>
- 👋💙 🤝
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdelrahmanFouad1&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p> -->
+ <br/> -->
+<hr>
 
 
-</div>
+<h2> Samples from my projects </h2>
+
+### 
+
+visions academy - An application in the Sultanate of Oman for a university doctor at the College of.<br />
+Medicine and Pharmacy, which has an explanation of scientific disadvantages.<br />
+
+<p><a href="https://play.google.com/store/apps/details?id=com.visionsacademy.visions_academy" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+
+
+
+
+
+
+<!--
+
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+ 
+
+
 
