@@ -58,8 +58,7 @@ Medicine and Pharmacy, which has an explanation of scientific disadvantages.<br 
 
 <p><a href="https://play.google.com/store/apps/details?id=com.visionsacademy.visions_academy" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
 
-urinalysis - An application Keep track of your Urinox dipstick urine analysis results using the urinalysis app.<br />
-Monitor and track the progress of each of the following indicators over time: <br />
+urinalysis - An application Keep track of your urine analysis results using the urinalysis app. Monitor and track the progress of each of the following indicators over time: <br />
 1. Leukocytes <br />
 2. Nitrite <br />
 3. Urobilinogen <br />
